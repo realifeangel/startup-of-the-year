@@ -42,6 +42,11 @@ hr {
   border-width: 4px;
 }
 
+.btn-primary:click{
+    background-color: #ee4b08;
+    border-color: #ee4b08;	
+}
+
 .btn-xl {
   padding: 1rem 2rem;
 }
